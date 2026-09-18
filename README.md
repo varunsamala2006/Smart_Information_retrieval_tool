@@ -49,7 +49,31 @@ The tool generates the following query patterns:
 | `"index of"` | Searches for publicly indexed directory listings |
 
 ---
+## How It Works
 
+The application follows a simple workflow:
+
+```text
+User enters keyword
+        │
+        ▼
+Input validation
+        │
+        ▼
+Keyword processing
+        │
+        ▼
+Search query generation
+        │
+        ▼
+Queries displayed as cards
+        │
+        ▼
+User selects "Search"
+        │
+        ▼
+Google Search opens in a new tab
+---
 ## Technology Stack
 
 - **HTML5** — Application structure
