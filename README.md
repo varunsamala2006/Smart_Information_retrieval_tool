@@ -176,11 +176,12 @@ site:.gov "cyber security"
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homepage.png)
 
 ### Generated Search Queries
 
-![Generated Results](screenshots/results.png)
+![Generated Results](screenshots/result.png)
+![Generated Results](screenshots/final_result.png)
 
 ---
 
